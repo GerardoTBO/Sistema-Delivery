@@ -1,0 +1,8 @@
+  RESTAURANT-DELIVERY-PSI
+	Boleta de Pago
+	  7/8/2020
+
+Productos
+
+_______________________
+Total paga:	0

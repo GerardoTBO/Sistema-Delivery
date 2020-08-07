@@ -1,0 +1,9 @@
+100	pollo		45	5
+101	anticuchos	50	20
+102	chaufa		12	30
+103	pizza		35	20
+104	parrilla	25	10
+
+105
+pollada	36		20
+
