@@ -1,8 +1,12 @@
-  RESTAURANT-DELIVERY-PSI
+
+   RESTAURANT-DELIVERY-PSI
 	Boleta de Pago
-	  7/8/2020
+	  7/8/20207
 
 Productos
 
+	pollo  40
+	mediopollo  22
+	pizza  35
 _______________________
-Total paga:	0
+Total paga:	97
